@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pde version="3.6"?>
+
+<target includeMode="feature" name="Impex Target" sequenceNumber="29">
+<locations>
+<location includeAllPlatforms="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.gyrex.features.sdk.feature.group" version="0.11.0.v20111112-1245-19Q-EaEgoz-8W6Pd_nz-v4qc7Gpy"/>
+<repository location="http://download.eclipse.org/gyrex/0.11/"/>
+</location>
+<location includeAllPlatforms="true" includeMode="slicer" includeSource="true" type="InstallableUnit">
+<unit id="org.eclipse.pde.junit.runtime.addon.feature.group" version="1.0.100.v20110331-7C7GDHAkHgHr9v0L4DF585202816"/>
+<repository location="http://download.eclipse.org/eclipse/updates/3.7"/>
+</location>
+</locations>
+</target>

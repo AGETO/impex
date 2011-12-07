@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Configurator
+Bundle-SymbolicName: net.ageto.gyrex.impex.configurator
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: net.ageto.gyrex.impex.configurator.internal.ImpexConfigActivator
+Bundle-Vendor: AGETO
+Export-Package: net.ageto.gyrex.impex.configurator,
+ net.ageto.gyrex.impex.configurator.model
+Require-Bundle: org.eclipse.core.runtime,
+ org.eclipse.gyrex.model.common;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Import-Package: net.ageto.gyrex.impex.configurator.model

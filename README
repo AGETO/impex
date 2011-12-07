@@ -1,0 +1,1 @@
+AGETO Processing Framework for Eclipse Gyrex============================================This framework implements a flexible processing framework basedon Gyrex distributed jobs. It allows to assamble processed froma mixture of small processing steps.  Read about Gyrex:  http://www.eclipse.org/gyrex/
